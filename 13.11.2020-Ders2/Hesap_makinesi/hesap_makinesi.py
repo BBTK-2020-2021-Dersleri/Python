@@ -17,3 +17,6 @@ elif(secenek==2):
 elif(secenek==3):
     div=first/second
     print(div)
+
+else:
+    print("You can enter just 1-2-3")
