@@ -10,6 +10,6 @@ if((score)>=0.0 and (score)<=1):
     elif((score)>=0.6):
         print("D")
     else:
-        print("Bad score")
+        print("F")
 else:
     print("Bad score")
