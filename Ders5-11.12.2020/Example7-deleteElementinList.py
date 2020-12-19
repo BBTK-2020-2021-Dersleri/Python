@@ -7,10 +7,7 @@ if(index!=1):
     for i in liste1[index:5]:
         liste2.append(i)
 else:
-    for i in liste1[2:index-1]:
-        liste2.append(i)
     for i in liste1[index:5]:
         liste2.append(i)
     
 print(liste2)
-    
